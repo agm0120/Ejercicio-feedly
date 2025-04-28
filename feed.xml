@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>Apple presenta el iPhone 17 con IA avanzada</title>
+    <link>https://tecnologia2025.com/apple-iphone17-ia</link>
+    <description>El nuevo iPhone 17 integra un asistente de IA que revoluciona la experiencia móvil.</description>
+    <atom:link href="https://tecnologia2025.com/images/iphone17.jpg" rel="self" type="application/rss+xml" />
+    <copyright>Laura Méndez</copyright>
+    <pubDate>Mon, 28 Apr 2025 08:08:35 GMT</pubDate>
+    <lastBuildDate>Mon, 28 Apr 2025 08:20:30 GMT</lastBuildDate>
+    <generator>Absolute RSS Editor</generator>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Amazon presenta su primer dron de reparto totalmente autónomo</title>
+      <link>https://tecnologia2025.com/amazon-dron-autonomo</link>
+      <description>Amazon lanza un nuevo dron que puede entregar paquetes en zonas urbanas sin intervención humana.</description>
+      <category>Logística y Robótica</category>
+      <enclosure url="https://tecnologia2025.com/images/amazon-dron.jpg" length="0" type="image/jpeg" />
+      <guid isPermaLink="false">3196A135-ADF8-497E-8941-A8082EACEF06</guid>
+      <pubDate>Tue, 29 Apr 2025 08:19:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>OpenAI lanza GPT-5: el futuro de la IA conversacional</title>
+      <link>https://tecnologia2025.com/openai-gpt5</link>
+      <description>La nueva versión de GPT promete conversaciones más naturales y capacidades mejoradas.</description>
+      <category>Inteligencia Artificial</category>
+      <enclosure url="https://tecnologia2025.com/images/gpt5.jpg" length="0" type="image/jpeg" />
+      <guid isPermaLink="false">C4FF6559-E9DA-4F87-9D06-A03524592D93</guid>
+      <pubDate>Mon, 28 Apr 2025 08:18:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>Tesla anuncia baterías con 50% más autonomía para 2026</title>
+      <link>https://tecnologia2025.com/tesla-baterias2026</link>
+      <description>Tesla promete una nueva generación de baterías que cambiará la industria automotriz.</description>
+      <category>Energía y Automoción</category>
+      <enclosure url="https://tecnologia2025.com/images/tesla-baterias.jpg" length="0" type="image/jpeg" />
+      <guid isPermaLink="false">C36A29B8-1C3A-45BB-90E9-4D1F51F55D9E</guid>
+      <pubDate>Mon, 28 Apr 2025 08:18:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>Microsoft revoluciona el trabajo remoto con HoloWork 2.0</title>
+      <link>https://tecnologia2025.com/microsoft-holowork</link>
+      <description>Microsoft presenta su nueva plataforma de realidad mixta para reuniones virtuales.</description>
+      <category>Realidad Mixta</category>
+      <enclosure url="https://tecnologia2025.com/images/holowork.jpg" length="0" type="image/jpeg" />
+      <guid isPermaLink="false">EF17F818-844F-40FA-ABE1-38AC9CF562BF</guid>
+      <pubDate>Sun, 27 Apr 2025 08:16:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>Google lanza su buscador impulsado por IA generativa</title>
+      <link>https://tecnologia2025.com/google-buscador-ia</link>
+      <description>La nueva generación del buscador de Google ofrecerá respuestas personalizadas mediante IA.</description>
+      <category>Inteligencia Artificial</category>
+      <enclosure url="https://tecnologia2025.com/images/google-ia.jpg" length="0" type="image/jpeg" />
+      <guid isPermaLink="false">3BE16560-E596-43FF-BBEC-AF96B0E2BE7F</guid>
+      <pubDate>Sat, 26 Apr 2025 08:12:32 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
